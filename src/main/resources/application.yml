@@ -1,0 +1,3 @@
+rest:
+  template:
+    timeout: 5000
